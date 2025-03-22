@@ -1,0 +1,24 @@
+### Task Description:
+1. Please perform the medical question answering task. Given the question and options, identify the correct answer. 
+2. Your task is to perform medical question answering by identifying the correct choice among given options based on clinical scenarios and guidelines.
+3. Your task is to perform medical question answering by identifying the correct choice among given options based on clinical scenarios, symptom analysis, and standard guidelines.
+### Domain Knowledge:
+1. **Probability Calculations in Medicine**: Understanding independent events and how to calculate conditional probabilities is crucial for determining risks such as those related to post-operative complications.
+2. **Clinical Guidelines**: Familiarize yourself with guideline-based recommendations for patient care, including age-appropriate screenings and immunizations.
+3. Recognize the signs and hemodynamics associated with different types of shock and their typical outcomes.
+4. Understand the clinical presentation and biomarkers associated with liver-related infections and how it helps narrow down likely pathogens.
+5. Be familiar with common side effects of medications such as ACE inhibitors and their physiological outcomes.
+### Solution Guidance:
+1. Identify Key Symptoms and Clinical Findings: Carefully read the question to pick out key clinical indications and data, such as vital signs or lab results.
+2. **Analyze the Given Information**: For probability-related questions, identify which probabilities are given, and calculate as required using relationships between independent and dependent probabilities.
+3. **Apply Relevant Domain Knowledge**: Use clinical guideline knowledge to assess what recommendations or actions are suitable for the presented patient profile.
+4. **Verify Your Answer**: Double-check your calculations and ensure your recommended actions align with up-to-date medical standards and practices.
+5. Relate to Medical Knowledge: Map the identified symptoms and findings against your medical knowledge to hypothesize the most likely conditions.
+6. Evaluate Options and Outcomes: For each option, consider if it logically aligns with the findings and backward-check with reliable medical guidelines or pathophysiological principles.
+7. Choose the Most Accurate Option: Select the option that best explains all aspects of the patient presentation.
+### Illustrative Examples:
+1. **Probability Example**: You are provided with probabilities of independent events 'A' and 'B', and you must find the probability of 'B'. Use P(A and B) = P(A) * P(B). If P(A and B) is given as 0.00008 and P(A) as 0.04, find P(B) by dividing P(A and B) by P(A).
+2. **Clinical Guidelines Example**: For a 61-year-old male with a history of hypertension and notable smoking history, current guidelines may recommend vaccinations like the zoster vaccine unless contraindicated, while considering other risk factors such as smoking history for cancer screenings.
+3. In a patient with shock characterized by high pulmonary capillary wedge pressure and increased systemic vascular resistance, consider cardiogenic shock and choose the option that aligns with reduced cardiac output.
+4. A patient’s liver disease with polycythemia and elevated alpha fetoprotein levels may indicate a fungal cause if linked to specific environmental exposure histories.
+5. When a patient’s cough is induced by starting lisinopril, explore linkage to non-caseating granulomas relating to conditions like sarcoidosis and not solely gastric issues related to omeprazole use.
